@@ -41,7 +41,7 @@ screenshots/Capture d'écran 2025-06-11 211406.png
 
 If you don't want to deal with Python or installations:
 
-1. Go to the [Releases](https://github.com/your-username/wallpaper-generator/releases)
+1. Go to the [Releases](https://github.com/asmabnouir/wallpaper-collage-generator/releases/tag/v1.0)
 2. Download the latest ZIP file
 3. Extract it
 4. Run the `.exe` — that’s it!
