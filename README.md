@@ -22,7 +22,16 @@ I gave it a minimal interface using CustomTkinter.
 
 ## Preview
 
-_(You can add your own screenshots or a GIF demo here)_
+screenshots/Capture d'écran 2025-06-11 211406.png
+
+- Select a folder with images
+  screenshots/Capture d'écran 2025-06-11 211156.png
+
+- Pick a background color
+  screenshots/Capture d'écran 2025-06-11 211442.png
+
+- This is the result (with 3 col)
+  screenshots/Capture d'écran 2025-06-11 211547.png
 
 ---
 
