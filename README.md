@@ -24,7 +24,7 @@ I gave it a minimal interface using CustomTkinter.
 
 ### Launch the script / the .exe
 
-![Step 1 - Select folder](screenshots/ctk_windows.pn)
+![window](screenshots/ctk_windows.png)
 
 ### 1. Select a folder with images
 
