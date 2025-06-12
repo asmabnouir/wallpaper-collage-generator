@@ -22,16 +22,19 @@ I gave it a minimal interface using CustomTkinter.
 
 ## Preview
 
-screenshots/Capture d'écran 2025-06-11 211406.png
+[window ctk](screenshots/ctk_windows.png)
 
-- Select a folder with images
-  screenshots/Capture d'écran 2025-06-11 211156.png
+### 1. Select a folder with images
 
-- Pick a background color
-  screenshots/Capture d'écran 2025-06-11 211442.png
+![Step 1 - Select folder](screenshots/select-folder.png)
 
-- This is the result (with 3 col)
-  screenshots/Capture d'écran 2025-06-11 211547.png
+### 2. Pick a background color
+
+![Step 2 - Pick color](screenshots/pick-color.png)
+
+### 3. Generate the collage (example with 3 columns)
+
+![Step 3 - Result](screenshots/wallpaper.png)
 
 ---
 
